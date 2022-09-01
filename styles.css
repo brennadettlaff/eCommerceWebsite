@@ -1,3 +1,13 @@
+html {
+    box-sizing:border-box;
+}
+
+body {
+    margin:0;
+}
+
+
+
 
 footer {
     background-color: #bf7631;
