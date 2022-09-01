@@ -18,22 +18,24 @@ nav ul{
     flex-direction: row;
     justify-content: space-between;
 }
-.header_right{
-    justify-content:flex-end;
-}
+nav a{text-decoration: none;}
+.header_right{justify-content:flex-end;}
 .header_logo{
     display: flex; justify-content: center;
     display: inline
 }
 
 
-main {margin: 1rem auto; width: 80%;font-size: 90%;}
-main section {margin-top: 6rem;padding: 2rem;}
+main {margin: 1rem auto; width: 80%;}
+main section {margin-top: 6rem;}
 
-.home{background-color: black; color:white}
+.home{background-color: black; color:white; font-size:150% ;}
 
-img.grass_pot {float: right;margin-left: 3rem;width: 380px;}
-img.flower_pot {float:left; width:260px; margin-right: 3rem;}
+.text{font-size: 115%;}
+img.grass_pot {float: right;margin-left: 3rem;width: 40%;}
+img.flower_pot {float:left; width:30%; margin-right: 3rem;}
+
+
 
 
 
