@@ -26,6 +26,15 @@ nav li {
     margin-right: 0.5rem;
 }
 
+main {
+    margin: 1rem auto;
+    width: 80%;
+}
+
+main section {
+    margin-top: 6rem;
+    padding: 2rem;
+}
 
 footer {
     background-color: #bf7631;
