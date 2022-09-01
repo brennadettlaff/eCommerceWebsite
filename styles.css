@@ -26,21 +26,16 @@ nav ul{
     display: inline
 }
 
-main {
-    margin: 1rem auto;
-    width: 80%;
-}
 
-main section {
-    margin-top: 6rem;
-    padding: 2rem;
-}
+main {margin: 1rem auto; width: 80%;font-size: 90%;}
+main section {margin-top: 6rem;padding: 2rem;}
 
-.about img {
-    float: right;
-    margin-left: 3rem;
-    width: 400px;
-}
+.home{background-color: black; color:white}
+
+img.grass_pot {float: right;margin-left: 3rem;width: 380px;}
+img.flower_pot {float:left; width:260px; margin-right: 3rem;}
+
+
 
 footer {
     background-color: #bf7631;
