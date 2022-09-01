@@ -11,6 +11,21 @@ header {
     padding: 1rem;
 }
 
+nav a {
+    font-size: 30px;
+    text-decoration: none;
+}
+nav ul {
+    list-style-type: none;
+    position: absolute;
+    top: 0.7rem;
+    right: 1rem;
+}
+nav li {
+    display: inline;
+    margin-right: 0.5rem;
+}
+
 
 footer {
     background-color: #bf7631;
